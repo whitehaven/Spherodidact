@@ -10,6 +10,7 @@ The finished product will:
 - [ ] draw a few different shapes
 - [ ] draw a few shapes that have multicolored blending effects
 - [ ] move the shapes both linearly and rotationally
+
 ### pymunk integration phase:
 - [ ] draw a bunch of physicsified circles, squares, and triangles
   - [ ] demonstrate an off-kilter center of mass
