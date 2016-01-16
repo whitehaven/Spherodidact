@@ -10,8 +10,7 @@ The finished product will:
 - [x] draw a few different shapes
 - [cancel] draw a few shapes that have multicolored blending effects (requires heavy recoding of primitives.py)
 - [x] move the shapes both linearly 
-- [ ] and rotationally
-- [ ] show color-changing animation effects wholly and on multicolored blending shapes
+- [x] and rotationally
 
 ### pymunk integration phase:
 - [ ] draw a bunch of physicsified circles, squares, and triangles
