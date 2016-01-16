@@ -9,7 +9,8 @@ The finished product will:
 ### pyglet phase:
 - [x] draw a few different shapes
 - [cancel] draw a few shapes that have multicolored blending effects (requires heavy recoding of primitives.py)
-- [ ] move the shapes both linearly and rotationally
+- [x] move the shapes both linearly 
+- [ ] and rotationally
 - [ ] show color-changing animation effects wholly and on multicolored blending shapes
 
 ### pymunk integration phase:
