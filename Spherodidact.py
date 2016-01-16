@@ -11,4 +11,5 @@ def on_draw():
     window.clear()
     circle.render()
 
+
 pyglet.app.run()

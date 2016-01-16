@@ -179,7 +179,8 @@ class Arc(Base):
 
 
 class Polygon(Base):
-    def __init__(self, v, z=0, color=(0, 0, 0, 1), stroke=0, rotation=0.0, style=0):
+    def __init__(self, v, z=0, color=(0, 0, 0, 1), stroke=0, rotation=0.0,
+                 style=0):  # ac: v is an iterable of vertices
         """ polygon class
             Polygon(vertexarray=[(0, 0), (29, 100), (30, 200)], z=100, color=(0,0.3,0.1,1), stroke=0, rotation=23)
             overwrites few methods from superclass as polygons are more complex, needs to update everyvertex.
